@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+
+}
+
+#enterDetails {
+    float: left;
+    width: 50%;
+    background-color: rgb(212, 165, 10);
+    color: black;
+}
+
+#findDetails {
+    float: left;
+    width: 50%;
+    background-color: rgba(212, 165, 10, 0.445);
+    color: blue;
+}
+
+input {
+    width: 120px;
+
+}
